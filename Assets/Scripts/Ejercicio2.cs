@@ -34,7 +34,7 @@ public class Ejercicio2 : MonoBehaviour
         }
         else if (conjunto == montoDisponible)
         {
-            Debug.Log("Los precios de los productos no superan el monto de dinero disponible, faltan $0");
+            Debug.Log("Los precios de los productos no supera el monto de dinero disponible, faltan $0");
         }
 
     }
